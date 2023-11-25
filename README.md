@@ -1,13 +1,10 @@
 # Gemeinsame Haushaltsplanung
-
-
 ## Inhaltsverzeichnis
 - [Beschreibung](#Beschreibung)
 - [Voraussetzungen](#voraussetzungen)
 - [Installation](#installation)
 - [Verwendung](#verwendung)
 - [Dokumentation](#dokumentation)
-- [Beiträge](#beiträge)
 - [Lizenz](#lizenz)
 
 ## Beschreibung
@@ -18,6 +15,11 @@ Die einzelnen User aus einem Haushalt können ausstehende aufgaben markieren wel
 
 ## Voraussetzungen
 
-Liste hier alle Voraussetzungen auf, die für die Verwendung deines Projekts erforderlich sind. Dies kann z.B. die Installation von bestimmten Software-Tools oder Bibliotheken sein.
-
 ## Installation
+
+## Verwendung
+
+## Dokumentation
+
+## Lizenz
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die Datei [LICENSE](LICENSE) für Details.
