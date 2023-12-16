@@ -16,12 +16,12 @@ Warum: Damit die Hausarbeiten aufgeteilt werden können
 | Akzeptanzkriterien |  
 | :--- |  
 | 1. Der Admin kann einzelne Aufgaben erstellen. |  
-| 2. Der Admin kann auswählen, ob sich die Aufgabe wiederholt oder einzigartig ist. |  
+| 2. Der Admin kann auswählen, ob sich die Aufgabe wiederholt werden kann oder einzigartig ist. |  
 | 3. Der Admin kann die fertig erstellte Aufgabe für die User freischalten. |   
 
-Wer:  
-Was:  
-Warum:  
+Wer: Admin  
+Was: Bearbeiten von Aufgaben  
+Warum: Damit die Aufgaben bei bedarf überarbeitet oder sogar entfernt werden können. 
 | Akzeptanzkriterien |  
 | :--- |  
 | 1. |  
