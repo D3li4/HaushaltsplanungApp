@@ -10,7 +10,7 @@
 ---
 ## Beschreibung
 
-Das Programm dien als Plattform für das Managen von Haushaltsaufgaben. Es müssen vorgängig Aufgaben vordefiniert werden.  
+Das Programm dient als Plattform für das Managen von Haushaltsaufgaben. Es können vorgängig Aufgaben vordefiniert werden. Die Aufgaben können vom Administrator nachträglich bearbeitet werden.  
 Für die Verwaltung muss ein Administrator bestimmt werden welcher auch den gesammten verlauf von abgeschlossenen Aufgaben einsehen kann.  
 Die einzelnen User aus einem Haushalt können ausstehende aufgaben markieren welche sie erledigen wollen und nach beendigung als erledigt markieren. 
 
