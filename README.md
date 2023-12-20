@@ -25,7 +25,7 @@ Die einzelnen User aus einem Haushalt können ausstehende aufgaben markieren wel
 
 ---
 ## Dokumentation
-Hier gelangen Sie zur [Dokumentation](dokumentation/Anforderungsanalyse.md).
+Hier gelangen Sie zur [Dokumentation](Dokumentation/Anforderungsanalyse.md).
 
 ---
 ## Lizenz
