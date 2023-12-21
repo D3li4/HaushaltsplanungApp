@@ -51,7 +51,7 @@ Warum: Damit die Aufgaben bei bedarf überarbeitet oder sogar entfernt werden k�
 
 | Testfall                    | Beschreibung                             | Erwartetes Ergebnis               |
 |-----------------------------|------------------------------------------|-----------------------------------|
-|wen ig jetz hie ganz viu ineschribe, wird die bog immer grösser und grösser|||
+||||
 ||||
 ||||
 
