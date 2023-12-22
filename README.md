@@ -68,11 +68,17 @@ Passen Sie die Datenbankkonfiguration in der Datei Backend/src/main/resources/ap
 
 ---
 ## Verwendung
-Nach erfolgreicher Installation können Sie das Haushaltsmanagement-System verwenden:
+Nach erfolgreicher Installation können Sie die HaushaltsplanungApp verwenden:
 
 1. Frontend starten:  
-Navigieren Sie zum Frontend-Verzeichnis: cd haushaltsmanagement/frontend.
-Starten Sie die Entwicklungsserver mit: npm run dev.
+Navigieren Sie zum Frontend-Verzeichnis:
+```bash
+ cd HaushaltsplanungApp/Frontend.
+ ```
+Starten Sie die Entwicklungsserver mit: 
+```bash
+npm run dev
+```
 Die Anwendung ist jetzt unter http://localhost:5173 verfügbar.
 
 2. Administratorrolle:  
@@ -88,18 +94,6 @@ Bei Bedarf können Sie auf die Datenbank zugreifen, um sicherzustellen, dass all
 5. Backend starten:  
 Dies können Sie in Ihrer IDE tun. Dafür muss nur die Hauptklasse ausgeführt werden.  
 Dies startet die Anwendung auf http://localhost:8080.
-
-6. Frontend starten:  
-Wenn Sie noch im Backend Ordner sind:  
-```bash
-cd ...
-```
-und danach wieder in den Frontend Ordner:
-```bash
-cd Frontend
-npm run dev
-```
-Nun ist die Anwendung in betrieb und kann auf http://localhost:5173 aufgerufen werden.
 
 ---
 ## Dokumentation
