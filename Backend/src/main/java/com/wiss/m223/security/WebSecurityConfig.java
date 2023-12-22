@@ -26,7 +26,7 @@ public class WebSecurityConfig {
     private final static String[] EVERYONE = { "/public", "/category", "/quiz", "/api/auth/**", };
     // private final static String[] EVERYONE = { "/public", "/private", "/admin" };
     private final static String[] SECURE = { "/question", "/private", "/admin" };
-    private final static String[] ROLES = { "USER", "MODERATOR", "ADMIN" };
+    private final static String[] ROLES = { "USER", "ADMIN" };
 
     @Bean
     public AuthTokenFilter authenticationJwtTokenFilter() {

@@ -15,9 +15,20 @@ export async function getPublicContent() {
 export async function getPrivateContent() {
   let data = [];
 
-    const token = JSON.parse(localStorage.getItem("user")).accessToken;
+  const token = JSON.parse(localStorage.getItem("user")).accessToken;
 
-  await client.get("/private", { headers: {"Authorization": `Bearer ${token}`, mode: "cors" } }).then((response) => {
+  await client.get("/private", { headers: { "Authorization": `Bearer ${token}`, mode: "cors" } }).then((response) => {
+    data = response.data;
+  });
+  return data;
+}
+
+export async function getAdminContent() {
+  let data = [];
+
+  const token = JSON.parse(localStorage.getItem("admin")).accessToken;
+
+  await client.get("/admin", { headers: { "Authorization": `Bearer ${token}`, mode: "cors" } }).then((response) => {
     data = response.data;
   });
   return data;

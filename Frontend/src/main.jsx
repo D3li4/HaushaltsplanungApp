@@ -2,6 +2,7 @@ import * as React from "react";
 import * as ReactDOM from "react-dom/client";
 import Public, { loader as public_loader} from "./pages/public";
 import Private, { loader as private_loader} from "./pages/private";
+// import Admin, { loader as admin_loader} from "./pages/admin";
 import Login from "./pages/login";
 import {
   createBrowserRouter,
@@ -12,7 +13,7 @@ import "./index.css";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <h1>Willkommen. Bitte loggen Sie sich ein.</h1>,
   },
   {
     path: "/login",
@@ -28,6 +29,11 @@ const router = createBrowserRouter([
     loader: private_loader,
     element: <Private />
   },
+ /* {
+    path: "/admin",
+    loader: admin_loader,
+    element: <Admin />
+  }*/
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
