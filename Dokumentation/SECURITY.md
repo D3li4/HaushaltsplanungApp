@@ -65,31 +65,39 @@ Die Haushaltsmanagement-Plattform ermöglicht es Benutzern, Haushaltsaufgaben zu
 ### 8.1 Reaktion auf Sicherheitsvorfälle
 Im Falle einer Sicherheitsverletzung oder eines Verdachts darauf wird der folgende Notfallplan aktiviert:
 
-1. Sicherheitsvorfall identifizieren:  
+1. __Sicherheitsvorfall identifizieren:__  
 Implementierung von Überwachungstools, um verdächtige Aktivitäten zu erkennen.
 Durchführung regelmässiger Sicherheitsaudits.
-2. Sofortige Massnahmen ergreifen:  
+
+2. __Sofortige Massnahmen ergreifen:__  
 Isolierung des betroffenen Teils des Systems, um eine weitere Ausbreitung zu verhindern.
 Deaktivierung von betroffenen Benutzerkonten oder Funktionen.
-3. Benutzer benachrichtigen:  
+
+3. __Benutzer benachrichtigen:__  
 Umgehende Benachrichtigung aller betroffenen Benutzer über den Vorfall und die ergriffenen Massnahmen.
 Bereitstellung von Anleitungen für betroffene Benutzer, um ihre Konten zu überprüfen oder Passwörter zurückzusetzen.
-4. Untersuchung und Analyse:  
+
+4. __Untersuchung und Analyse:__  
 Einrichtung eines Incident Response Teams zur detaillierten Untersuchung des Vorfalls.
 Sammlung von Protokollen und Artefakten für forensische Analysen.
-5. Kommunikation:  
+
+5. __Kommunikation:__  
 Regelmässige Aktualisierung der Benutzer über den Fortschritt der Untersuchung und ergriffenen Massnahmen.
 Öffentliche Erklärung oder Kommunikation über soziale Medien, wenn der Vorfall die breite Öffentlichkeit betrifft.
-6. Wiederherstellung:  
+
+6. __Wiederherstellung:__  
 Implementierung von Sicherheitspatches oder Massnahmen, um die Schwachstelle zu beheben.
 Wiederherstellung von Daten aus sicheren Backups, wenn erforderlich.
-7. Bewertung und Berichterstattung:  
+
+7. __Bewertung und Berichterstattung:__  
 Analyse des Vorfalls und Dokumentation von Schlussfolgerungen.
 Erstellung eines Berichts für interne Teams und eventuell auch für externe Regulierungsbehörden.
-8. Präventive Massnahmen:  
+
+8. __Präventive Massnahmen:__  
 Anpassung von Sicherheitsrichtlinien und -verfahren, um zukünftige Vorfälle zu verhindern.
 Implementierung von Schulungen für Benutzer und Teammitglieder, um Sicherheitsbewusstsein zu stärken.
-9. Nachverfolgung und Lernen:  
+
+9. __Nachverfolgung und Lernen:__  
 Etablierung eines Nachverfolgungsprozesses, um sicherzustellen, dass die ergriffenen Massnahmen effektiv sind.
 Integration von Lessons Learned in zukünftige Sicherheitsstrategien
 
