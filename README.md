@@ -16,7 +16,7 @@ Die einzelnen User aus einem Haushalt können ausstehende aufgaben markieren wel
 
 ---
 ## Voraussetzungen
-Um das Haushaltsmanagement-System zu verwenden, müssen bestimmte Voraussetzungen erfüllt sein:
+Um das Haushaltsplaner-System zu verwenden, müssen bestimmte Voraussetzungen erfüllt sein:
 
 - Node.js und npm:
 Stellen Sie sicher, dass Node.js und npm auf Ihrem System installiert sind. Sie werden für die Ausführung des Frontend-Teils React mit Vite benötigt.
@@ -35,7 +35,7 @@ Weiter unten finden Sie die detailierte [Installation](#installation).
 ---
 ## Installation
 
-Die Installation des Haushaltsmanagement-Systems erfordert die folgenden Schritte. Stellen Sie sicher, dass Sie die erforderliche Software gemäss den Voraussetzungen (siehe unten) installiert haben, bevor Sie fortfahren.
+Die Installation des Haushaltsplaner-Systems erfordert die folgenden Schritte. Stellen Sie sicher, dass Sie die erforderliche Software gemäss den Voraussetzungen (siehe unten) installiert haben, bevor Sie fortfahren.
 
 1. Voraussetzungen überprüfen:
 Vergewissern Sie sich, dass folgende Software auf Ihrem System installiert ist:

@@ -15,12 +15,12 @@
 ---
 ## 1. Einführung
 ### 1.1 Ziel des Sicherheitskonzepts
-Das Ziel dieses Sicherheitskonzepts ist es, die Vertraulichkeit, Integrität und Verfügbarkeit der Haushaltsmanagement-Plattform zu gewährleisten, indem potenzielle Sicherheitsrisiken identifiziert und entsprechende Sicherheitsmassnahmen implementiert werden.
+Das Ziel dieses Sicherheitskonzepts ist es, die Vertraulichkeit, Integrität und Verfügbarkeit der Haushaltsplaner-Plattform zu gewährleisten, indem potenzielle Sicherheitsrisiken identifiziert und entsprechende Sicherheitsmassnahmen implementiert werden.
 
 ---
 ## 2. Anwendungsbereich
 ### 2.1 Beschreibung der Anwendung
-Die Haushaltsmanagement-Plattform ermöglicht es Benutzern, Haushaltsaufgaben zu verwalten. Aufgaben können vordefiniert und vom Administrator bearbeitet werden. Die Plattform ermöglicht es einem Administrator, den gesamten Verlauf abgeschlossener Aufgaben einzusehen. Benutzer können ausstehende Aufgaben markieren und nach Abschluss als erledigt kennzeichnen.
+Die Haushaltsplaner-Plattform ermöglicht es Benutzern, Haushaltsaufgaben zu verwalten. Aufgaben können vordefiniert und vom Administrator bearbeitet werden. Die Plattform ermöglicht es einem Administrator, den gesamten Verlauf abgeschlossener Aufgaben einzusehen. Benutzer können ausstehende Aufgaben markieren und nach Abschluss als erledigt kennzeichnen.
 
 ### 2.2 Identifizierte Risiken
 - __Unberechtigter Zugriff auf persönliche Daten:__ Sicherstellen, dass nur autorisierte Benutzer auf persönliche Daten zugreifen können.
@@ -114,4 +114,4 @@ Integration von Lessons Learned in zukünftige Sicherheitsstrategien
 ---
 ## 11. Schlussfolgerung
 ### 11.1 Zusammenfassung
-- Die Sicherheit unserer Haushaltsmanagement-Plattform ist von höchster Priorität, und dieses Sicherheitskonzept ist ein lebendiges Dokument, das kontinuierlich aktualisiert wird, um den sich ständig ändernden Bedrohungen und Anforderungen gerecht zu werden.
+- Die Sicherheit der Haushaltsplaner-Plattform ist von höchster Priorität und dieses Sicherheitskonzept ist ein lebendiges Dokument, das kontinuierlich aktualisiert wird, um den sich ständig ändernden Bedrohungen und Anforderungen gerecht zu werden.
