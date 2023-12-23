@@ -1,4 +1,4 @@
-# Sicherheitskonzept für die Haushaltsplannung App
+# Sicherheitskonzept für die Haushaltsplanung App
 ## Inhaltsverzeichnis
 1. [Einführung](#1-einführung)
 2. [Anwendungsbereich](#2-anwendungsbereich)

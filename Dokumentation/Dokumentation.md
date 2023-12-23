@@ -80,4 +80,4 @@ Vite ist ein Build-Tool, das speziell für moderne JavaScript-Frameworks wie Rea
 ---
 ## Github
 
-Hier geht es direkt zum Github Repository: [Haushaltsplannung](https://github.com/D3li4/HaushaltsplanungApp)
+Hier geht es direkt zum Github Repository: [Haushaltsplanung](https://github.com/D3li4/HaushaltsplanungApp)
