@@ -46,6 +46,10 @@ Die Anwendung nutzt Java als Programmiersprache.
 - __Spring Boot:__  
 Spring Boot bietet eine einfache und effiziente Möglichkeit, Java-Anwendungen zu erstellen, zu konfigurieren und zu starten. Es erleichtert auch die Integration von Spring-Anwendungen mit anderen Bibliotheken und Frameworks.
 
+- __Spring Security:__  
+Das Sicherheitsframework Spring Security bietet eine umfassende und flexible möglichkeit, die Authentifizierung, Autorisierung und den Schutz vor Siherheitsbedrohungen zu verwalten.  
+In diesem Projekt wird zur Authentifizierung ein Benutzername und ein dazugehöriges Passwort verwendet. Für die Benutzerdefinierte Autorisierung und für die Token-basierte Authentifizierung ist die im Frontend enthaltene Klasse [WebSecurityConfig.java](../Backend/src/main/java/com/wiss/m223/security/WebSecurityConfig.java) zuständig.
+
 - __Datenbank-Transaktionen:__  
 Das Backend verwendet Transaktionen, um die Datenintegrität sicherzustellen. Dies ist besonders wichtig, wenn mehrere Datenbankoperationen als eine logische Einheit behandelt werden müssen.
 
@@ -55,8 +59,8 @@ Das Backend verwendet Transaktionen, um die Datenintegrität sicherzustellen. Di
 
 | Testfall                    | Beschreibung                             | Erwartetes Ergebnis               |
 |-----------------------------|------------------------------------------|-----------------------------------|
-| Authentifizierungstest | Überprüft, ob ein Benutzer erfolgreich authentifiziert werden kann. | Die Authentifizierung ist erfolgreich, und der Benutzer erhält einen gültigen Token. |
-| Aufgabenbearbeitungstest | Überprüft, ob ein Administrator Aufgaben erfolgreich bearbeiten kann. | Der Administrator kann Aufgaben erfolgreich aktualisieren und speichern. |
+| Authentifizierungstest | Überprüft, ob ein Benutzer erfolgreich in die Anwendung kommt durch ein Login. | Der Benutzer konnte sich einlogen und erhält einen gültigen Token. |
+| Aufgabenbearbeitungstest | Überprüft, ob ein Administrator eine Aufgabe auswählen kann und diese Bearbeiten kann. | Der Administrator kann Aufgaben erfolgreich auswählen, Bearbeiten oder sogar löschen. |
 
 ---
 ## Frontend
