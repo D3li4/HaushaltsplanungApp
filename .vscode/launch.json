@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-M223Application<m223>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.wiss.m223.M223Application",
+            "projectName": "m223",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
