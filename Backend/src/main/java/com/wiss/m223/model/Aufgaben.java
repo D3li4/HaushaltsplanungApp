@@ -1,13 +1,9 @@
 package com.wiss.m223.model;
 
-import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.Table;
 
 
 @Entity
@@ -18,7 +14,7 @@ public class Aufgaben {
 
     private String name;
     private String description;
-    private String username; // Annahme: Benutzer, dem die Aufgabenliste zugeordnet ist
+    private String username;
     private String status; // Annahme: Status der Aufgabenliste (z.B. "aktiv", "inaktiv")
 
     public Aufgaben() {
